@@ -8,6 +8,3 @@ I'm sometimes interested in cyber security
 - I’m working on java in bytecode
 - I’m learning python
 - I’m looking for help with CTF
-  Contact:
-  Discord: --
-  Email: --
