@@ -1,6 +1,5 @@
 Hello,
 19 y/o
-Reverse Engineer
 Fullstack java and web devoloper
 I speak russian and english
 I'm mostly interested in java bytecode.Playing with bytecode obfuscation/deobfuscation
